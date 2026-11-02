@@ -1,12 +1,13 @@
 # Olá, eu sou o Vitor 👋 · Hi, I'm Vitor
 
-🇧🇷 Estudante de Análise e Desenvolvimento de Sistemas (ADS) em Curitiba. Estudo uma tecnologia por vez e transformo cada uma em um projeto completo, com testes e documentação.
+🇧🇷 Estudante de Análise e Desenvolvimento de Sistemas (ADS) em Curitiba, com experiência em Java, JavaScript, TypeScript, C#, SQL e Lua (Luau), e prática na criação de bots para Discord e jogos para Roblox. Gosto de entregar projetos completos, com testes e documentação.
 
-🇺🇸 Systems analysis and development student in Curitiba, Brazil. I learn one technology at a time and turn each one into a complete project, with tests and documentation.
+🇺🇸 Systems analysis and development student in Curitiba, Brazil, with experience in Java, JavaScript, TypeScript, C#, SQL and Lua (Luau), and hands-on work building Discord bots and Roblox games. I like shipping complete projects, with tests and documentation.
 
 ## Destaque · Highlight
 
 **[Winnie](https://github.com/vitorbg7/winnie-bot)**: bot de música para Discord em produção, com mais de 10.000 usuários (confirmado pelo painel do Discord Developer Portal).
+
 Discord music bot in production, with 10,000+ users (confirmed by the Discord Developer Portal).
 
 ## Projetos · Projects
@@ -21,8 +22,4 @@ Discord music bot in production, with 10,000+ users (confirmed by the Discord De
 
 ## Tecnologias · Tech
 
-Java · JavaScript · TypeScript · C# · SQL · Node.js · React Native · Git
-
-## Também · Also
-
-Crio jogos para Roblox e bots para Discord. · I also build Roblox games and Discord bots.
+Java · JavaScript · TypeScript · C# · SQL · Lua (Luau) · Node.js · React Native · Git
