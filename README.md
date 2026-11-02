@@ -1,6 +1,7 @@
 # Olá, eu sou o Vitor 👋 · Hi, I'm Vitor
 
 🇧🇷 Estudante de Análise e Desenvolvimento de Sistemas (ADS) em Curitiba. Estudo uma tecnologia por vez e transformo cada uma em um projeto completo, com testes e documentação.
+
 🇺🇸 Systems analysis and development student in Curitiba, Brazil. I learn one technology at a time and turn each one into a complete project, with tests and documentation.
 
 ## Destaque · Highlight
